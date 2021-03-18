@@ -1,0 +1,37 @@
+body{
+    justify-content: center;
+    
+}
+.vform {
+    margin-bottom: 20px;
+  }
+  .vForm > input {
+      width: 500px;
+    
+  }
+  .name {
+    margin-left: 149px;
+  }
+  .email {
+    margin-left: 152px;
+    margin-top: 30px;
+  }
+  #password {
+    margin-left: 121px;
+    margin-top: 30px;
+  }
+  #confirmpassword {
+    margin-left: 60px;
+    margin-top: 30px;
+  }
+  .formBtn {
+    margin-top: 20px;
+    margin-left: 260px;
+  }
+  p {
+    padding-left: 205px;
+    margin-bottom: -10px;
+    color: red;
+  }
+  
+  
