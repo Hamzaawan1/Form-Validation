@@ -16,7 +16,7 @@ $(function () {
       $("#password").css({ border: "2px solid red" });
       $("#ppasswordconfirm").text("Password not Matched");
     } else {
-      $("#psubmit").text("Form is being submitted");
+      $("#psubmit").text("Form Submitted Sucessfully");
     }
     e.preventDefault();
   }
