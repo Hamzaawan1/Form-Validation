@@ -18,5 +18,6 @@ $(function () {
     } else {
       $("#psubmit").text("Form Submitted Sucessfully");
     }
+    alert("Form is being submitted")
     e.preventDefault();
   }
